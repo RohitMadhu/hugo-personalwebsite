@@ -1,4 +1,4 @@
 # Rohit Madhu
 
-Single HTML file multiple sections 
+Hugo SSG
 
